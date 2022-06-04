@@ -18,14 +18,10 @@
 
 ## TODO
 
-475 供暖器
-
-392. 判读子序列
-
-108
-
-剑指 offer 33
-剑指 offer 63
+475 https://leetcode-cn.com/problems/heaters/
+392. https://leetcode-cn.com/problems/is-subsequence/ 
+108 https://leetcode-cn.com/problems/convert-sorted-array-to-binary-search-tree/
+剑指 offer 33 https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-hou-xu-bian-li-xu-lie-lcof/
 
 
 

@@ -1,7 +1,7 @@
 # LeetCode 解题笔记
 
 
-## 简单 ( 59 题 )
+## 简单 ( 60 题 )
 
 - [1. 两数之和](./subject/简单/1.%20两数之和/twoSum.js)
 - [100. 相同的树](./subject/简单/100.%20相同的树/isSameTree.js)
@@ -9,6 +9,7 @@
 - [107. 二叉树的层次遍历 II](./subject/简单/107.%20二叉树的层次遍历%20II/levelOrderBottom.js)
 - [110. 平衡二叉树](./subject/简单/110.%20平衡二叉树/isBalanced.js)
 - [112. 路径总和](./subject/简单/112.%20路径总和/hasPathSum.js)
+- [121. 买卖股票的最佳时机](./subject/简单/121.%20买卖股票的最佳时机/maxProfit.js)
 - [1237. 找出给定方程的正整数解](./subject/简单/1237.%20找出给定方程的正整数解/findSolution.js)
 - [13. 罗马数字转整数](./subject/简单/13.%20罗马数字转整数/romanToInt.js)
 - [1337. 方正中战斗力最弱的 k 行](./subject/简单/1337.%20方正中战斗力最弱的%20k%20行/kWeakestRows.js)
@@ -94,7 +95,7 @@
 - [08.03. 魔术索引](./subject/面试题/08.03.%20魔术索引/findMagicIndex.js)
 - [10.05. 稀疏数组搜索](./subject/面试题/10.05.%20稀疏数组搜索/findString.js)
 
-## 剑指Offer ( 08 题 )
+## 剑指Offer ( 09 题 )
 
 - [11. 旋转数组的最小数字](./subject/剑指Offer/11.%20旋转数组的最小数字/minArray.js)
 - [25. 合并两个排序的链表](./subject/剑指Offer/25.%20合并两个排序的链表/mergeTwoLists.js)
@@ -104,3 +105,4 @@
 - [53-I. 在排序数组中查找数组 I](./subject/剑指Offer/53-I.%20在排序数组中查找数组%20I/search.js)
 - [53-II. 0~n-1中缺失的数字](./subject/剑指Offer/53-II.%200~n-1中缺失的数字/missingNumber.js)
 - [55-I. 二叉树的深度](./subject/剑指Offer/55-I.%20二叉树的深度/maxDepth.js)
+- [63. 股票的最大利润](./subject/剑指Offer/63.%20股票的最大利润/maxProfit.js)

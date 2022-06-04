@@ -10,8 +10,8 @@
     "commit": "npm run up2 && npm run up1"
   },
   "devDependencies": {
-    "commitizen": "^4.0.3",
-    "standard-version": "^8.0.1"
+    "commitizen": "^4.2.4",
+    "standard-version": "^9.5.0"
   },
   "standard-version": {
     "releaseCommitMessageFormat": "chore(changelog): {{currentTag}}"

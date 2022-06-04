@@ -9,6 +9,7 @@ export default{
         "[107. 二叉树的层次遍历 II](./subject/简单/107.%20二叉树的层次遍历%20II/levelOrderBottom.js)",
         "[110. 平衡二叉树](./subject/简单/110.%20平衡二叉树/isBalanced.js)",
         "[112. 路径总和](./subject/简单/112.%20路径总和/hasPathSum.js)",
+        "[121. 买卖股票的最佳时机](./subject/简单/121.%20买卖股票的最佳时机/maxProfit.js)",
         "[1237. 找出给定方程的正整数解](./subject/简单/1237.%20找出给定方程的正整数解/findSolution.js)",
         "[13. 罗马数字转整数](./subject/简单/13.%20罗马数字转整数/romanToInt.js)",
         "[1337. 方正中战斗力最弱的 k 行](./subject/简单/1337.%20方正中战斗力最弱的%20k%20行/kWeakestRows.js)",
@@ -111,9 +112,10 @@ export default{
         "[32-III. 从上到下打印二叉树 III](./subject/剑指Offer/32-III.%20从上到下打印二叉树%20III/levelOrder.js)",
         "[53-I. 在排序数组中查找数组 I](./subject/剑指Offer/53-I.%20在排序数组中查找数组%20I/search.js)",
         "[53-II. 0~n-1中缺失的数字](./subject/剑指Offer/53-II.%200~n-1中缺失的数字/missingNumber.js)",
-        "[55-I. 二叉树的深度](./subject/剑指Offer/55-I.%20二叉树的深度/maxDepth.js)"
+        "[55-I. 二叉树的深度](./subject/剑指Offer/55-I.%20二叉树的深度/maxDepth.js)",
+        "[63. 股票的最大利润](./subject/剑指Offer/63.%20股票的最大利润/maxProfit.js)"
       ]
     }
   ],
-  "size": 89
+  "size": 91
 }
